@@ -42,7 +42,6 @@ stages:
     cfTargets:
       - org: 'Cadaxo Gesellschaft m.b.H._cadaxofc'
         space: 'DEV'
-#        apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'
-         apiEndpoint: 'https://api.cf.us30.hana.ondemand.com'
+        apiEndpoint: 'https://api.cf.us30.hana.ondemand.com'
         credentialsId: 'cf-deploy'
         
