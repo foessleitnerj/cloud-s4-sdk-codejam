@@ -15,7 +15,7 @@ steps:
   mtaBuild:
     mtaJarLocation: '/opt/sap/mta/lib/mta.jar'
     dockerImage: 'ppiper/mta-archive-builder'
-
+#test
 #Stage Specific Configurations
 stages:
   staticCodeChecks:
